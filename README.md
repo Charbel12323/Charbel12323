@@ -4,7 +4,7 @@ I like building fast systems, breaking slow ones, and running until my legs ask 
 I’m a **Software Engineer** who loves automating anything that gets too repetitive, too manual, or too boring for human hands.
 
 By day, I work with **cloud automation, CI/CD, ML inference pipelines, and real-time telemetry systems**.  
-By night, I tinker with side-projects, push random commits at 2:00am, and learn new things just because they're cool.
+I learn new things just because they're cool.
 
 I’m also a **two-time hackathon podium finisher**, endurance runner, and someone who believes engineers should build things that actually *work in production*.
 
